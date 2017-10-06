@@ -2,5 +2,6 @@
 	"id": "liferay",
 	"image": "wedeploy/liferay:dxp-sp4-20170919",
 	"memory": 2048,
-	"cpu": 2
+	"cpu": 2,
+	"volume": "/opt/liferay/data"
 }
